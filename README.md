@@ -37,7 +37,7 @@
 	/>
 </a>
 <h4>Front End</h4>
-<a href="https://www.w3.org/html/">
+<a href="https://www.w3schools.com/html/">
 	<img
 		src="https://img.shields.io/badge/%20-HTML-blue?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=white&color=E34F26"
 	/>
