@@ -121,7 +121,7 @@
 		src="https://img.shields.io/badge/%20-Git-blue?style=for-the-badge&logo=Git&logoColor=F05032&labelColor=white&color=F05032"
 	/>
 </a>
-
+<br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamanqd&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="yamanqd" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yamanqd&count_private=true&theme=github_dark&icon_color=ec362f&show_icons=true" alt="yamanqd" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yamanqd&theme=dark" alt="yamanqd" /></p>
