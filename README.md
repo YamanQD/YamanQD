@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=yamanqd&color=orange&style=flat-square" alt="yamanqd" /></p>
 
-- 💻 I’m currently learning **React Native, Webpack, GraphQL and Django**
+- 💻 I’m currently learning **Unity game dev**
 - ⚡ Available as a freelance web developer
 - 🐈 Fun fact: **I LOVE little kittens**
 
