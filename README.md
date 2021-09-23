@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=yamanqd&color=orange&style=flat-square" alt="yamanqd" /></p>
 
-- 💻 I’m currently learning **Unity game dev**
+- 💻 I’m currently learning **GraphQL, and Godot game engine**
 - ⚡ Available as a freelance web developer
 - 🐈 Fun fact: **I LOVE little kittens**
 
@@ -47,11 +47,11 @@
 		src="https://img.shields.io/badge/%20-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=white&color=1572B6"
 	/>
 </a>
-<a href="https://sass-lang.com/">
+<!-- <a href="https://sass-lang.com/">
 	<img
 		src="https://img.shields.io/badge/%20-Sass-blue?style=for-the-badge&logo=Sass&logoColor=CC6699&labelColor=white&color=CC6699"
 	/>
-</a>
+</a> -->
 <a href="https://getbootstrap.com/">
 	<img
 		src="https://img.shields.io/badge/%20-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=7952B3&labelColor=white&color=7952B3"
