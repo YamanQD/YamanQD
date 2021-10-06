@@ -26,6 +26,11 @@
 		src="https://img.shields.io/badge/%20-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=3178C6&labelColor=white&color=3178C6"
 	/>
 </a>
+<a href="https://www.rust-lang.org/">
+	<img
+		src="https://img.shields.io/badge/%20-Rust-blue?style=for-the-badge&logo=Rust&logoColor=000000&labelColor=white&color=000000"
+	/>
+</a>
 <a href="https://www.python.org/">
 	<img
 		src="https://img.shields.io/badge/%20-Python-blue?style=for-the-badge&logo=Python&logoColor=3776AB&labelColor=white&color=3776AB"
