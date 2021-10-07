@@ -94,9 +94,9 @@
 		src="https://img.shields.io/badge/%20-MongoDB-blue?style=for-the-badge&logo=MongoDB&logoColor=47A248&labelColor=white&color=47A248"
 	/>
 </a>
-<a href="https://www.postgresql.org/">
+<a href="https://www.mysql.com/">
 	<img
-		src="https://img.shields.io/badge/%20-PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&labelColor=white&color=4169E1"
+		src="https://img.shields.io/badge/%20-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=4479A1&labelColor=white&color=4479A1"
 	/>
 </a>
 <a href="https://redis.io/">
