@@ -88,6 +88,11 @@
 		src="https://img.shields.io/badge/%20-Express-blue?style=for-the-badge&logo=Express&logoColor=000000&labelColor=white&color=000000"
 	/>
 </a>
+<a href="https://nestjs.com/">
+	<img
+		src="https://img.shields.io/badge/%20-NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=E0234E&labelColor=white&color=E0234E"
+	/>
+</a>
 <h4>Database</h4>
 <a href="https://www.mongodb.com/">
 	<img
