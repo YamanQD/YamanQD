@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=yamanqd&color=orange&style=flat-square" alt="yamanqd" /></p>
 
-- 💻 I’m currently learning **GraphQL, Nest.js and Rust**
+- 💻 I’m currently learning **Laravel and Flutter**
 - ⚡ Available as a freelance web developer
 - 🐈 Fun fact: **I LOVE little kittens**
 
@@ -24,6 +24,11 @@
 <a href="https://www.typescriptlang.org/">
 	<img
 		src="https://img.shields.io/badge/%20-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=3178C6&labelColor=white&color=3178C6"
+	/>
+</a>
+<a href="https://www.php.net/">
+	<img
+		src="https://img.shields.io/badge/%20-php-blue?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=white&color=777BB4"
 	/>
 </a>
 <a href="https://www.rust-lang.org/">
@@ -91,6 +96,11 @@
 <a href="https://nestjs.com/">
 	<img
 		src="https://img.shields.io/badge/%20-NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=E0234E&labelColor=white&color=E0234E"
+	/>
+</a>
+<a href="https://laravel.com/">
+	<img
+		src="https://img.shields.io/badge/%20-laravel-blue?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=white&color=FF2D20"
 	/>
 </a>
 <h4>Database</h4>
