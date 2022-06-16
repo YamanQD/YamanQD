@@ -144,12 +144,12 @@
 <h4>Current Daily Driver</h4>
 <a href="https://endeavouros.com/">
 	<img
-		src="https://img.shields.io/badge/%20-Endeavour OS-blue?style=for-the-badge&logo=Linux&logoColor=FCC624&labelColor=white&color=a103fc"
+		src="https://img.shields.io/badge/%20-Endeavour OS-blue?style=for-the-badge&logo=Linux&logoColor=a103fc&labelColor=white&color=a103fc"
 	/>
 </a>
 <a href="https://www.gnome.org/">
 	<img
-		src="https://img.shields.io/badge/%20-Gnome-blue?style=for-the-badge&logo=Gnome&logoColor=FCC624&labelColor=white&color=FCC624"
+		src="https://img.shields.io/badge/%20-Gnome-blue?style=for-the-badge&logo=Gnome&logoColor=4fa1ff&labelColor=white&color=4fa1ff"
 	/>
 </a>
 <br>
