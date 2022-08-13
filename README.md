@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yaman Qassas</h1>
-<h3 align="center">Backend development enthusiast, and a 3rd year computer science student</h3>
+<h3 align="center">Backend development enthusiast, and a 4th year software engineering student</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=yamanqd&color=orange&style=flat-square" alt="yamanqd" /></p>
 
-- 💻 I’m currently learning **Nest.js and Three.js**
-- ⚡ Available as a freelance backend developer
+- 💻 I’m currently learning **python**
+<!-- - ⚡ Available as a freelance backend developer -->
 - 🐈 Fun fact: **I LOVE little kittens**
 
 <h3 align="left">Connect with me:</h3>
