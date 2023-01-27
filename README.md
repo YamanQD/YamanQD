@@ -3,13 +3,11 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=yamanqd&color=orange&style=flat-square" alt="yamanqd" /></p>
 
-- 💻 I’m currently learning **python**
-<!-- - ⚡ Available as a freelance backend developer -->
 - 🐈 Fun fact: **I LOVE little kittens**
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:yaman102011@gmail.com"><img src="https://img.shields.io/badge/%20-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=EA4335&labelColor=white&color=EA4335"></a>
-<a href="https://t.me/ZenitsuAg"><img src="https://img.shields.io/badge/%20-Telegram-26A5E4?style=for-the-badge&logo=Telegram&labelColor=white&color=26A5E4"></a>
+<a href="https://t.me/YamanQD"><img src="https://img.shields.io/badge/%20-Telegram-26A5E4?style=for-the-badge&logo=Telegram&labelColor=white&color=26A5E4"></a>
 <a href="https://twitter.com/yamanqassas"><img src="https://img.shields.io/badge/%20-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=1DA1F2&labelColor=white&color=1DA1F2"></a>
 <!-- <a href="https://fb.com/yaman.qassas.98"><img src="https://img.shields.io/badge/%20-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=1877F2&labelColor=white&color=1877F2"></a> -->
 <a href="https://linkedin.com/in/yaman-qassas"><img src="https://img.shields.io/badge/%20-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2&labelColor=white&color=0A66C2"></a>
