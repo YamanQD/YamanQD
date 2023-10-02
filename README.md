@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yaman Qassas</h1>
-<h3 align="center">Backend development enthusiast, and a 4th year software engineering student</h3>
+<h3 align="center">Backend development enthusiast, and a 5th year software engineering student</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=yamanqd&color=orange&style=flat-square" alt="yamanqd" /></p>
 
-- 🐈 Fun fact: **I LOVE little kittens**
+- 🐈 Fun fact: **I LOVE cats**
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:yaman102011@gmail.com"><img src="https://img.shields.io/badge/%20-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=EA4335&labelColor=white&color=EA4335"></a>
